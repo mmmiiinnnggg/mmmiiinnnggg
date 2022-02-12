@@ -9,6 +9,8 @@ I'm a master student, junior AI developer.
 📫 How to reach me: 
 - **Email:** xmc1650@gmail.com
 - **ZhiHu:** stephen
+- **VK:** @mingchuan
+- **Telegram:** @ming0822
 
 <!--
 **mmmiiinnnggg/mmmiiinnnggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
