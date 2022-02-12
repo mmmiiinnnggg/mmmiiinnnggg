@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi👋
+
+I'm a master student, junior AI developer.
+
+🔭 I’m currently studying at Lomonosov Moscow State University.  
+⚡ Huawei Moscow Research Intern, Alibaba Global Mathemathics Competition Finalist, MCM Meritorious Winner.  
+🤔 I'm interested in topics of Applied Mathemathics, Optimization, ML/DL...  
+💬 Fluent in Russian/English ( and mandarin :) ).  
+📫 How to reach me: 
+- **Email:** xmc1650@gmail.com
+- **ZhiHu:** stephen
 
 <!--
 **mmmiiinnnggg/mmmiiinnnggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
