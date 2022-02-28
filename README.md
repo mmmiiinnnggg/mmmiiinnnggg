@@ -1,4 +1,4 @@
-## Hi,  你好, привет👋
+## <center>Hi,  你好, привет👋</center>
 
 I'm a master student, junior AI developer.
 
@@ -11,8 +11,7 @@ I'm a master student, junior AI developer.
 💬 Fluent in Russian/English ( and mandarin :) ).  
 
 📫 How to reach me: 
-- **Email:** xmc1650@gmail.com
-- **ZhiHu:** stephen
+- **Email:** xmc1650@gmail.com  
 - **VK:** @mingchuan
 - **Telegram:** @ming0822
 
