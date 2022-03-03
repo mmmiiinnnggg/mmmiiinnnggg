@@ -1,6 +1,6 @@
-## <center>Hi,  你好, привет👋</center>
+## <center> Hi,  你好, привет👋 </center>
 
-I'm a master student, junior AI developer.
+**I'm a master student, junior AI developer.**
 
 🔭 I’m currently studying at Lomonosov Moscow State University.  
 
