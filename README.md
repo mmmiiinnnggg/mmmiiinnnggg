@@ -6,7 +6,7 @@
 
 ⚡ Huawei Moscow Research Intern, Alibaba Global Mathemathics Competition Finalist, MCM Meritorious Winner.  
 
-🤔 I'm interested in topics of Applied Mathemathics, Optimization, ML/DL...  
+🤔 I'm interested in topics of Applied Mathemathics, Optimization, ML/DL/RL/NLP...  
 
 💬 Fluent in Russian/English ( and mandarin :) ).  
 
