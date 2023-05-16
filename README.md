@@ -1,14 +1,14 @@
 ## <center> Hi,  你好, привет👋 </center>
 
-**I'm a master student, Machine Learning researcher-developer.**
+**I'm a master student, machine learning researcher-developer.**
 
-🔭 Currently studying at Lomonosov Moscow State University, majoring in Machine Learning.
+🔭 Currently studying at Lomonosov Moscow State University, majoring in machine learning.
 
 ⚡ Huawei Moscow Research Intern (2012 laboratories), doing research on model quantization and compression.
 
 🌱 Alibaba Global Mathemathics Competition Finalist, MCM Meritorious Winner. 
 
-🤔 Devoting into ML/DL Research, have experience with RL/NLP/Speech.
+🤔 Devoting in Data Science, have practical experience with RL/NLP/Speech.
 
 💬 Fluent in Russian/English ( and mandarin :) ).  
 
