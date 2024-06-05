@@ -4,8 +4,8 @@
 
 🔭 studying at lomonosov moscow state university, majoring in machine learning.  
 ⚡ huawei moscow research engineer (2012 laboratories), doing research on model quantization and compression.  
-🤔 enthusiastic about training training neural nets of LLM/CV/RL and not only.  
-🌱 alibaba global math competition finalist / MCM meritorious winner.  
+🤔 enthusiastic about training training neural nets of llm/cv/rl and not only.  
+🌱 alibaba global math competition finalist / mcm meritorious winner.  
 💬 fluent in russian.  
 
 **e-mail:** xmc1650@gmail.com  
