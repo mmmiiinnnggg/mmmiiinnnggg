@@ -1,21 +1,15 @@
 ## <center> Hi,  你好, привет👋 </center>
 
-**I'm a master student, machine learning researcher-developer.**
+**I'm a phd student, and also a machine learning research engineer.**
 
-🔭 Currently studying at Lomonosov Moscow State University, majoring in machine learning.
+🔭 studying at lomonosov moscow state university, majoring in machine learning.
+⚡ huawei moscow research engineer (2012 laboratories), doing research on model quantization and compression.
+🤔 enthusiastic about training training neural nets of LLM/CV/RL and not only.
+🌱 alibaba global math competition finalist / MCM meritorious winner. 
+💬 fluent in russian
 
-⚡ Huawei Moscow Research Intern (2012 laboratories), doing research on model quantization and compression.
-
-🌱 Alibaba Global Mathemathics Competition Finalist, MCM Meritorious Winner. 
-
-🤔 Devoting in Data Science, have practical experience with RL/NLP/Speech.
-
-💬 Fluent in Russian/English ( and mandarin :) ).  
-
-📫 How to reach me: 
-- **Email:** xmc1650@gmail.com  
-- **VK:** @mingchuan
-- **Telegram:** @ming0822
+- **e-mail:** xmc1650@gmail.com  
+- **tg:** @ming0822
 
 <!--
 **mmmiiinnnggg/mmmiiinnnggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
