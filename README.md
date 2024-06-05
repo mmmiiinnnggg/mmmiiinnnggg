@@ -2,12 +2,12 @@
 
 **I'm a phd student, and also a machine learning research engineer.**
 
-🔭 studying at lomonosov moscow state university, majoring in machine learning.
-⚡ huawei moscow research engineer (2012 laboratories), doing research on model quantization and compression.
-🤔 enthusiastic about training training neural nets of LLM/CV/RL and not only.
-🌱 alibaba global math competition finalist / MCM meritorious winner. 
-💬 fluent in russian
-
+🔭 studying at lomonosov moscow state university, majoring in machine learning.  
+⚡ huawei moscow research engineer (2012 laboratories), doing research on model quantization and compression.  
+🤔 enthusiastic about training training neural nets of LLM/CV/RL and not only.  
+🌱 alibaba global math competition finalist / MCM meritorious winner.  
+💬 fluent in russian  
+  
 - **e-mail:** xmc1650@gmail.com  
 - **tg:** @ming0822
 
