@@ -6,10 +6,10 @@
 ⚡ huawei moscow research engineer (2012 laboratories), doing research on model quantization and compression.  
 🤔 enthusiastic about training training neural nets of LLM/CV/RL and not only.  
 🌱 alibaba global math competition finalist / MCM meritorious winner.  
-💬 fluent in russian  
-  
-- **e-mail:** xmc1650@gmail.com  
-- **tg:** @ming0822
+💬 fluent in russian.  
+
+**e-mail:** xmc1650@gmail.com  
+**tg:** @ming0822
 
 <!--
 **mmmiiinnnggg/mmmiiinnnggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
